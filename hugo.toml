@@ -1,4 +1,4 @@
 baseURL = 'https://nilswiemann.github.io/DeineMudda.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'de-DE'
+title = 'Testseite für Stephan'
 theme = "hugo-blog-awesome"
